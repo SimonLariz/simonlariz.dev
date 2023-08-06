@@ -55,6 +55,7 @@ div {
 
 div.card {
 	word-wrap: break-word;
+	box-shadow: 2px 2px;
 }
 
 img.index {
